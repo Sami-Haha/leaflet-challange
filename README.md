@@ -1,5 +1,5 @@
-# leaflet-challange
-Module 15 challange
+# leaflet-challenge
+Module 15 challenge
 
 added index.html and static folder.
 Part 1 - used last 7 day url for initial setup.
