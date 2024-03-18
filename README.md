@@ -1,6 +1,8 @@
 # leaflet-challenge
 Module 15 challenge
 
+https://sami-haha.github.io/leaflet-challange/
+
 added index.html and static folder.
 Part 1 - used last 7 day url for initial setup.
 
